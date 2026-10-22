@@ -1,0 +1,21 @@
+body{
+    background: url("weather-images/clear.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+.weather-container{
+    background-color: rgba(255red, 255green, 255blue, 0.7alpha);
+    border-radius: 15px;
+    padding: 2rem;
+    margin-top: 3rem;
+}
+
+.info-card img{
+    width: 40px;
+    height: 40px;
+
+}
+
+.row{
+    align-items: center;
+}
